@@ -78,3 +78,203 @@
       height: calc(100vh - 50px);
     }
   }
+  .btn-navabar{
+    width: 90px;
+    margin-top: 5px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+  }
+  .bas-footer{
+    width: 100%;
+    height: 510px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    background: url(../images/istockphoto-1440736132-2048x2048.jpeg);
+
+  }
+  .un{
+    width: 350px;
+    background-color: red;
+    height: auto;
+    margin-left: 100px;
+    position: relative;
+    top: 100px;
+    left: 70px;
+  }
+  .sup1{
+    width: 80%;
+    height: 190px;
+    background-color: #2BA39B;
+    position: absolute;
+    top: 100px;
+    margin-left: -60px;
+  }
+  .sup2{
+    width: 80%;
+    height: 190px;
+    background-color: white;
+   
+    position: absolute;
+    
+    
+  }
+   .sup1 p{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .sup2 p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+  }
+  .deux{
+    width: 30%;
+    height: 200px;
+   
+    margin: 0 auto;
+    position: relative;
+    top: 130px;
+  }
+  .deux{
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+  }
+  .button-acheter button{
+    width: 50%;
+    height: 50px;
+    color: black;
+    background-color: #2BA39B;
+    border: none;
+    border-radius: 40px;
+    font-size: 18px;
+    color: black;
+    margin-top: 30px;
+    
+  }
+  .button-acheter{
+    text-align: center;
+    font-weight: bold;
+  }
+  .conteneur{
+    width: 85%;
+    height: auto;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .box{
+    width: 11%;
+    height: 237px;
+    border: 2px dotted #2BA39B;
+   
+    transition: transform 0.5s cubic-bezier(0.23,1.83,0.42,1.19);
+  }
+   .box1{
+    width: 11%;
+    height: 237px;
+    border: 2px dotted #2BA39B;
+    margin-top: 30px;
+    transition: transform 0.5s cubic-bezier(0.23,1.83,0.42,1.19);
+  }
+  /* .box :hover{
+    transform: scale(0.7);
+  } */
+  .content-livres{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+  }
+  .panier{
+    width: 100%;
+    height: 30px;
+    background-color: #2BA39B;
+    margin-top: 15px;
+  }
+  .con span{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+ .nom{
+    color: black;
+    font-size: bold;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+   
+ }
+ .sous-image img{
+    height: 100px;
+ }
+ .cui{
+    width: 100%;
+    height: auto;
+   
+    text-align: center;
+   
+    margin: 0 auto;
+ }
+ .titre{
+    font-weight: bold;
+    font-size: 22px;
+ }
+ .content-deux{
+    
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    margin-left: 50px;
+ }
+  .box2{
+    width: 11%;
+    height: 237px;
+    border: 2px dotted #2BA39B;
+    margin-left: 30px;
+    transition: transform 0.5s cubic-bezier(0.23,1.83,0.42,1.19);
+  }
+  
+  
+  .one{
+    width:30% ;
+    height: 250px;
+    background-color: red;
+  }
+  .ponier{
+    width: 100%;
+    height: 30px;
+    background-color: rebeccapurple;
+  }
+  .two{
+    width: 30%;
+    height: 250px;
+    background-color: #2BA39B;
+  }
+  .three{
+    width: 30%;
+    height: 250px;
+    background-color: #2BA39B;
+  }
+  /* .twoo{
+    width: 30%;
+    height: 250px;
+    background-color: #2BA39B;
+  } */
+  .cho{
+   
+    display: flex;
+    justify-content: space-around;
+  }
+  .one{
+    
+    display: flex;
+    justify-content: space-between;
+  }
+ 
