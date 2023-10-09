@@ -87,9 +87,10 @@
     border-radius: 30px;
     text-align: center;
   }
+  /*d*/
   .bas-footer{
     width: 100%;
-    height: 510px;
+    height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -173,7 +174,7 @@
   .box{
     width: 11%;
     height: 237px;
-    border: 2px dotted #2BA39B;
+    /* border: 2px dotted #2BA39B; */
    
     transition: transform 0.5s cubic-bezier(0.23,1.83,0.42,1.19);
   }
@@ -212,7 +213,8 @@
    
  }
  .sous-image img{
-    height: 100px;
+    height: 160px;
+    width: 120px;
  }
  .cui{
     width: 100%;
@@ -277,4 +279,132 @@
     display: flex;
     justify-content: space-between;
   }
+
+
+
+
+
+
+  .content{
+    width: 75%;
+    height: auto;
+    /* background-color: blue; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    flex-direction: row;
+    flex-flow: wrap;
+  }
+  .bix{
+    width: 12%;
+    height: auto;
+    border: 2px solid #2BA39B;
+   
+  }
+  .nono{
+    color: gray;
+  }
+  .bix1{
+    width: 12%;
+    height: auto;
+    border: 2px solid #2BA39B;
+   margin-left: 60px;
+   margin-top: 28px;
+  }
+  .bix2{
+    width: 12%;
+    height: auto;
+    border: 2px solid #2BA39B;
+   margin-left: 60px;
+   margin-top: 20px;
+  }
+  .images{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+
+  }
+  @media screen and (max-width:1200px){
+    .bix{
+      width: 40%;
+    }
+    .bix1{
+      width: 40%;
+    }
+    .bix2{
+      width: 40%;
+    }
+  }
+
+  @media screen and (max-width:600px){
+    .bix{
+      width: 90%;
+    }
+    .bix1{
+      width: 40%;
+    }
+    .bix2{
+      width: 40%;
+    }
+  }
+  .lili{
+    text-align: center;
+  }
+  .panio{
+    width: 90%;
+    height: 26px;
+    background-color: #2BA39B;
+    margin: 0 auto;
+  }
+  .panio span{
+    margin-left: 50px;
+    margin-top: -20px;
+    justify-content: space-between;
+  }
+  .contenter{
+    width: 75%;
+    height: auto;
+    
+    margin:  0 auto;
+    display: flex;
+    justify-content: center;
+  }
+  .haut{
+    width: 75%;
+    
+    margin: 0 auto;
+  }
+  .haut p{
+    font-size: 27px;
+    font-weight: bold;
+  }
  
+
+  .chip{
+    width: 75%;
+    height: auto;
+    border: 2px solid black;
+    /* background-color: blue; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .bex{
+   width: 23%;
+   background-color: red;
+   height: 180px;
+   display: flex;
+  }
+  .cote{
+    width: 50%;
+    background-color: black;
+    height: 190px;
+  }
+  .cote1{
+    width: 50%;
+    background-color: green;
+    height: 190px;
+  }
+  
