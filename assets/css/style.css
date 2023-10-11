@@ -243,8 +243,10 @@
     transition: transform 0.5s cubic-bezier(0.23,1.83,0.42,1.19);
   }
   
-  
-  .one{
+ input{
+  width: 100%;
+ }
+    .one{
     width:30% ;
     height: 250px;
     background-color: red;

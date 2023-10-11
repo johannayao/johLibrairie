@@ -1,0 +1,61 @@
+body{
+    background-color:#2BA39B ;
+}
+h1{
+    text-align: center;
+    color: #2BA39B;
+}
+.conn{
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.formulaire{
+    width: 450px;
+    background-color: white;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+label{
+    font-size: 20px;
+    margin-left: 20px;
+   
+}
+input{
+    width: 91%;
+    background-color: gainsboro;
+    height: 45px;
+   
+    border: none;
+}
+.ehh{
+    
+    margin: 0 auto;
+    margin-left: 20px;
+}
+
+button {
+    width: 30%;
+    height: auto;
+    padding: 10px;
+    background-color: #2BA39B;
+    border: none;
+}
+.soumettre{
+    margin: 20px;
+}
+.fo a{
+    justify-content: flex-end;
+    text-decoration: none;
+    text-transform: none;
+   float: right;
+   margin-top: -40px;
+   color: #2BA39B;
+   font-size: 17px;
+   margin-right: 20px;
+}
+.flèche{
+    margin-left: 40px;
+}
