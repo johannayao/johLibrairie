@@ -24,21 +24,22 @@
     margin-top: 30px;
 }
 .fi img{
-    margin-top: -30px;
+    /* margin-top: -30px; */
 }
 
  .va{
     position: absolute;
+    top: 0;
     right: 0;
-    
-    bottom: 0px;
+    margin-top: 19px;
+    margin-left: 10px;
 }   
 .panier2{
     width: 90%;
     height: auto;
     /* background-color: red; */
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: 110px;
 }
 .panier1{
     width: 400px;
@@ -47,12 +48,25 @@
     background-color: #2BA39B;
     display: flex;
 }
-.wi{
+/* .wi{
    width: 110px;
    height: 45px;
     text-align: center;
     background-color: #2BA39B;
     border: 3px solid white;
+} */
+.deco a{
+    text-decoration: none;
+    color: red;
+}
+.wi{
+    width: 150px;
+    height: 50px;
+    background-color: #2BA39B;
+    border: 2px solid white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
 }
 .cor{
    margin-top: 120px;
@@ -69,7 +83,7 @@
     height: auto;
     border: 2px solid gray;
     margin: 0 auto;
-    
+    padding-bottom: 10px;
     margin-top: -50px;
 }
 .gu{
@@ -103,8 +117,9 @@
 .derni{
     width: 150px;
     height: 50px;
-    background-color: white;
-    border: 3px solid #2BA39B;
+    background-color: #2BA39B;
+    border: 2px solid #2BA39B;
     margin: 0 auto;
     text-align: center;
+    margin-top: 20px;
 }
