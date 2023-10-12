@@ -572,7 +572,7 @@
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
-   margin-top: 30px;
+   margin-top: 40px;
   }
 
 .con1{
@@ -583,5 +583,6 @@
 }
 .dernier p{
   color: white;
+ 
 }
 
