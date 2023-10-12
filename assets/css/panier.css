@@ -65,10 +65,11 @@
 
 
 .quel{
-    width: 33%;
+    width: 440px;
     height: auto;
     border: 2px solid gray;
     margin: 0 auto;
+    
     margin-top: -50px;
 }
 .gu{
