@@ -1,0 +1,48 @@
+.chip{
+    width: 100%;
+    height: 32px;
+    border-radius: 10px;
+    
+}
+
+.lou{
+    position: relative;
+    width: 500PX;
+    height: auto;
+   
+}
+.fi{
+    display: flex;
+    ;
+
+    width: 100px;
+    height: auto;
+   
+}
+.fi img{
+    margin-top: -30px;
+}
+
+ .va{
+    position: absolute;
+    right: 0;
+    
+    bottom: 0px;
+}   
+.panier2{
+    width: 90%;
+    height: auto;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.panier1{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+    display: flex;
+}
+.gu{
+    display: flex;
+}
