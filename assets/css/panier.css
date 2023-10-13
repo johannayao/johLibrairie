@@ -11,6 +11,16 @@
     height: auto;
    
 }
+span.mama{
+    margin-left: -60px;
+    
+}
+.hu{
+    margin-top: 10px;
+}
+/* .ha{
+    margin-top: 5px;
+} */
 .fi{
     display: flex;
     ;

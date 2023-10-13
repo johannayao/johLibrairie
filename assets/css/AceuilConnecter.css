@@ -1,0 +1,14 @@
+.lou{
+    position: relative;
+    width: 500PX;
+    height: auto;
+   
+}
+input.chip{
+    height: 37px;
+    width: 510px;
+}
+
+.va{
+   margin-left: -1000px;
+}  
