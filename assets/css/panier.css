@@ -23,7 +23,7 @@ span.mama{
 } */
 .fi{
     display: flex;
-    ;
+    
 
     width: 100px;
     height: auto;
@@ -52,11 +52,11 @@ span.mama{
     margin-top: 110px;
 }
 .panier1{
-    width: 400px;
+    width: 161px;
     height: auto;
     margin: 0 auto;
     background-color: #2BA39B;
-    display: flex;
+    display: grid;
 }
 /* .wi{
    width: 110px;
